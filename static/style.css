@@ -1,0 +1,10 @@
+
+
+    @media only screen and (max-width: 768px) {
+        .commentImg {
+          display: none;
+        }
+      }
+
+    
+     .commentImg{ border-radius:23px}
